@@ -1,6 +1,6 @@
 ## Py小结 ##
 
-### 开学任务 ###
+### 任务 ###
 
 - [作业仓库](https://github.com/Hansoluo/learn-python-the-hard-way)
 - [py学习笔记](https://github.com/Hansoluo/learn-python-the-hard-way/blob/master/py%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
